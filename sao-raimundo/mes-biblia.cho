@@ -1,0 +1,352 @@
+
+
+
+######################
+## Canto de entrada
+######################
+{new_song}
+{title: Entrada - Toda Bíblia é comunicação}
+
+{start_of_chorus Refrão}
+Toda b[D]íblia [Bm]é comun[Em]icação
+De um D[A7]eus amor, de um D[D]eus irmão
+É fel[Am]iz quem cr[D7]ê na rev[G]elação
+Quem tem [D]Deus no [A7]coraç[D]ão
+{end_of_chorus}
+
+{start_of_verse: I}
+Jesus Cr[F#7]isto é a pal[Bm]avra
+Pura im[E7]agem de Deus P[A7]ai
+Ele é [G]vida    [Gm]e verd[D]ade, [Bm]
+a supr[Em]ema      [A7]carid[D]ade
+{end_of_verse}
+
+{ci: Refrão}
+ 
+{start_of_verse: II}
+Os prof[F#7]etas sempre m[Bm]ostram
+A vont[E7]ade do senh[A7]or
+Precis[G]amos [Gm]ser prof[D]etas [Bm]
+Para o [Em]mundo    [A7]ser melh[D]or
+{end_of_verse}
+
+{ci: Refrão}
+
+{start_of_verse: III}
+Vinde a n[F#7]ós, ó Santo Esp[Bm]írito
+Vinde n[E7]os ilumin[A7]ar
+A [G]palavra [Gm]que nos s[D]alva [Bm]
+Nós que[Em]remos [A7]conserv[D]ar
+{end_of_verse}
+
+{ci: Refrão}
+
+{image: src="logo.png" scale=0.5 center=100}
+
+
+######################
+## Ato de Contrição
+######################
+
+{new_song}
+{title: Contrição - Eu confesso}
+
+{start_of_verse: I}
+Eu con[Am]fesso a De[E]us e a vós irm[Am]ãos
+Tantas vezes p[G]equei, não fui [C]fiel     [A7]
+Pensa[Dm]mentos e pa[E]lavras,
+ ati[Am]tudes e omis[F]sões
+Por minha [Dm]culpa,  [E]
+tão grande c[Am]ulpa     [A7]
+{end_of_verse}
+
+{start_of_chorus Refrão}
+Senhor pie[Dm]dade! [G7]Cristo, pie[C]dade! [Am]
+tem pi[Dm]edade [E]ó Sen[Am]hor!     [A7]
+Senhor pie[Dm]dade! [G7]Cristo, pie[C]dade! [Am]
+tem pi[Dm]edade [E]ó Sen[Am]hor! [E7]
+{end_of_chorus}
+
+
+{start_of_verse: II}
+Peço à V[Am]irgem M[E]aria, nossa [Am]mãe
+E a v[G]ós meus irmãos,
+rogueis por m[C]im      [A7]
+A Deus p[Dm]ai que nos per[E]doa e
+ nos su[Am]stenta em suas [F]mãos
+Por seu am[Dm]or,  [E]
+tão grande [Am]amor    [A7]
+{end_of_verse}
+
+{ci: Refrão}
+
+{image: src="logo.png" scale=0.5 center=100}
+
+
+######################
+## Gloria
+######################
+
+{new_song}
+{title: Glória - Glória a Deus nas alturas}
+
+{start_of_verse: I}
+[C9]Glória a Deus nas alt[Bb9]uras
+E p[F]az na terra aos homens por Ele am[C9]ados 
+ Senhor Deus, R[Bb9]ei dos céus, 
+[F]Deus Pai todo poder[C9]oso
+{end_of_verse}
+
+{start_of_verse: II}
+Nós vos lou[Gm]va-     [Bb9]a           [C9]mos
+Nós vos bendi[Gm]ze     [Bb9]e           [C9]mos
+Nós vos ado[Gm]ra        [Bb9]a           [C9]mos
+Nós vos glori[Gm]fica    [Bb9]a           [C9]mos
+Nós vos damos gr[F]aças por
+ v[Bb9]ossa imensa gl[C9]ória
+{end_of_verse}
+
+{start_of_verse: III}
+Senhor Jesus Cr[Bb9]isto, 
+[F]Filho Unig[C9]ênito
+Senhor Deus, Cord[Bb9]eiro de Deus, 
+[F]Filho de Deus [C9]Pai
+{end_of_verse}
+
+{start_of_verse: IV}
+V[Bb9]ós que tirais o pe[F]cado do mundo, 
+[Bb9]tende piedade de [C9] nós
+V[Bb9]ós que tirais o pe[F]cado do mundo, 
+[Bb9]acolhei a nossa s[C9]úplica
+V[Bb9]ós que estais à dir[F]eita do Pai
+[Bb9]Tende piedade de n[C9]ós
+{end_of_verse}
+
+{start_of_verse: V}
+Só vós sois S[Bb9]an        [C9]to
+Só vós o Senh[Bb9]o        [C9]or
+Só vós o Alt[Bb9]íssimo, Jesus Cr[C9]isto
+[D7]Com o Espírito [G7]Santo
+Na glória de Deus [F]Pai. Am[C9]ém!
+{end_of_verse}
+
+######################
+## Aclamação
+######################
+
+{new_song}
+{title: Aleluia - Quando Estamos Unidos}
+
+{start_of_chorus Refrão}
+[E]Alel[B7]uia,      [C#m]ale-        [G#m]luia,         [A]Alel[E]ui     [B7]a
+[E]Alel[B7]uia,      [C#m]ale-        [G#m]luia,         [A]Alel[E]ui     [B7]a
+{end_of_chorus}
+
+
+{start_of_verse: I}
+[F#m]         Quando estamos u[G#m]nidos,
+[C#m]         estás entre [G#m]nós
+[A]E nos fa[F#m]larás da tua [B7]vida.
+{end_of_verse}
+
+Aleluia...
+
+
+{start_of_verse: II}
+[F#m]         Este nosso [G#m]mundo
+[C#m]         sentido terá
+[A]Se tua pal[F#m]avra renov[B7]ar
+{end_of_verse}
+
+{image: src="logo.png" scale=0.5 center=100}
+
+
+######################
+## Ofertório
+######################
+
+{new_song}
+{title: Ofertório - Trabalhar o Pão}
+
+{start_of_chorus Refrão}
+Trabalhar o p[Dm]ão,    [D7]
+Celebrar o p[Gm]ão,
+Oferecer e consagr[A7]ar e
+comungar o p[Dm]ão      [A7]
+{end_of_chorus}
+
+{start_of_verse: I}
+[Dm]Fruto do suor e [A7]do tra[Dm]balho,
+[Dm]Sacrifício que Je[A7]sus pedi[Dm]u,
+P[Dm]ão da liberdade e [A7]da just[Dm]iça,   [D7]
+Pão da [Gm]vida,  [C7]      pão do [F7+]céu:    [Bb7+]
+Te ofert[Gm]amos porque t[A7]udo é te[Dm]u.
+{end_of_verse}
+
+{ci: Refrão}
+
+
+{start_of_verse: II}
+[Dm]Fruto da esperança e [A7]da parti[Dm]lha,
+[Dm]Santa missa que nos [A7]faz irm[Dm]ãos,
+[Dm]Pão da liberdade e [A7]da jus[Dm]tiça, [D7]
+Pão da [Gm]vida,  [C7]      pão do [F7+]céu:    [Bb7+]
+Pão ben[Gm]dito de li[A7]berta[Dm]ção!
+{end_of_verse}
+
+{ci: Refrão}
+
+{image: src="logo.png" scale=0.5 center=100}
+
+######################
+## Santo
+######################
+
+{new_song}
+{title: Santo - O Senhor é Santo}
+
+
+{start_of_verse: I}
+O Senh[C]or é Santo,
+o Sen[Am]hor é Santo, 
+o Sen[F]hor é S[G7]anto
+{end_of_verse}
+
+{start_of_verse: II}
+O Senh[C]or é nosso D[Am]eus,
+o Sen[Dm]hor é nosso [G]Pai
+Que Seu r[C]eino de A[Am]mor
+se es[Dm]tenda sobre a [G7]terr[C]a
+{end_of_verse}
+
+{start_of_verse: III}
+O Senh[C]or é Santo,
+o Sen[Am]hor é Santo, 
+o Se[C]nhor é San[G7]to
+{end_of_verse}
+
+{start_of_verse: IV}
+Ben[C]dito o que[F] vem em[C] nome do Se[G]nhor
+Be[Am]ndito o que [Dm]vem em n[F]ome [G]do Se[C]nhor
+{end_of_verse}
+
+{start_of_verse: V}
+Hos[C]a  -      [F]a  -   [C]na,
+Ho[Am]sana,
+Hos[Dm]a  -     [G7]a  -   [C]na,
+{end_of_verse}
+
+{image: src="logo.png" scale=0.5 center=100}
+
+
+
+######################
+## Cordeiro
+######################
+
+{new_song}
+{title: Cordeiro de Deus}
+
+
+Intro:   G    D7
+
+Cordeiro de [G]Deus,
+Que ti[Bm]rais o pecado do [C]mundo.
+Tende Pie[Am]dade, Pie[D7]dade de n[G]ós.     [D7]
+
+Cordeiro de [G]Deus,
+Que ti[Bm]rais o pecado do [C]mundo.
+Tende Pie[Am]dade, Pie[D7]dade de n[G]ós.     [D7]
+
+Cordeiro de [G]Deus,
+Que ti[Bm]rais o pecado do [C]mundo.
+Dai-nos a [Am]Paz, a [D7]vossa [G]Paz.
+
+{image: src="logo.png" scale=0.5 center=100}
+
+######################
+## Comunhão
+######################
+
+{new_song}
+{title: Comunhão - Desamarrem as Sandálias}
+
+
+{start_of_verse: I}
+[E]Ao receberm[A9]os Senh[E]or, [F#m]tua presença sagrada
+Pr[B7]a confirmar teu amor [A]faz de nós [B7]tua mo[E]rada
+[E]Surge um sin[A9]cero lou[E]vor, [F#m]brota a semente Plantada,
+[B7]faz-nos seguir teu caminho, [A]sempre trilha[B7]r tua es[E]trada        [B7]
+{end_of_verse}
+
+{start_of_chorus Refrão}
+Desa[E]marrem as sandálias e des[B7]cansem,  [C#7]
+este [F#m]chão é terra [B7]santa, irmãos [E]meus! [B7]
+Venham, [E]orem, comam, [E7]cantem, venham
+Tod[A]os   [Am]         e re[E]novem a espe[B7]rança no Senh[E]or     [B7]
+{end_of_chorus}
+
+{start_of_verse: II}
+[E]O filho [A9]de Deus com o [E]pai [F#m]e o espírito santo
+Ne[B7]sta trindade um só ser, [A]que pede à [B7]nós sermos [E]santos.
+D[E]ai-nos Je[A9]sus teu po[E]der [F#m]de se doar sem medidas,
+[B7]deixa que compreendamos [A]que esse é o sen[B7]tido da [E]vida  [B7]
+{end_of_verse}
+
+{ci: Refrão}
+
+{start_of_verse: II}
+[E]Ao virmos [A9]te rece[E]ber, [F#m]nós te pedimos, ó Cristo,
+[B7]faze vibrar nosso ser, [A]indo ao en[B7]contro ao pai [E]santo.
+[E]Sem descui[A9]dar dos ir[E]mãos, [F#m] mil faces da tua face.
+[B7]Faze que o coração sinta [A]a força [B7]da cari[E]dade!      [B7]
+{end_of_verse}
+
+{image: src="logo.png" scale=0.5 center=100}
+
+
+
+######################
+## Final
+######################
+
+{new_song}
+{title: Final - Maria de Nazaré}
+
+
+{start_of_verse: I}
+Maria de Nazaré, Maria me cativou
+Fez mais forte a minha fé
+E por filho me adotou
+As vezes eu paro e fico a pensar
+E sem perceber, me vejo a rezar
+E meu coração se põe a cantar
+Pra Virgem de Nazaré
+Menina que Deus amou e escolheu
+Pra mãe de Jesus, o Filho de Deus
+Maria que o povo inteiro elegeu
+Senhora e Mãe do Céu
+{end_of_verse}
+
+{start_of_chorus Refrão}
+Ave Maria, Ave Maria,
+Ave Maria, Mãe de Jesus!
+{end_of_chorus}
+
+
+{start_of_verse: II}
+Maria que eu quero bem,
+Maria do puro amor
+Igual a você, ninguém
+Mãe pura do meu Senhor
+Em cada mulher que a terra criou
+Um traço de Deus Maria deixou
+Um sonho de Mãe Maria plantou
+Pro mundo encontrar a paz
+Maria que fez o Cristo falar
+Maria que fez Jesus caminhar
+Maria que só viveu pra seu Deus
+Maria do povo meu
+{end_of_verse}
+
+{image: src="logo.png" scale=0.5 center=100}

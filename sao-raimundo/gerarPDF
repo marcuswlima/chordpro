@@ -1,0 +1,9 @@
+
+
+
+chordpro -o ../../pdfs/$1.pdf $1.cho --config=myconfig.json
+
+
+
+
+

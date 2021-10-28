@@ -1,0 +1,46 @@
+{
+    // Table of contents.
+    "contents" : [
+        { "fields"   : [ "songindex" ],
+          "label"    : "Eduardo Branco",
+          "line"     : "%{title}",
+              "pageno"   : "%{page}",
+          "fold"     : false,
+          "omit"     : false,
+        },
+        //{ "fields"   : [ "sorttitle", "artist"],
+        //  "label"    : "Contents by Title",
+        //  "line"     : "%{title}%{artist| - %{}}",
+        //      "pageno"   : "%{page}",
+        //  "fold"     : false,
+        //  "omit"     : false,
+        //},
+        //{ "fields"   : [ "artist", "sorttitle" ],
+        //  "label"    : "Contents by Artist",
+        //  "line"     : "%{artist|%{} - }%{title}",
+        //      "pageno"   : "%{page}",
+        //  "fold"     : false,
+        //  "omit"     : true,
+        //},
+        ],
+
+    "pdf" : {
+
+      // PDF Properties.
+      // Note that the context for substitutions is the first song.
+      "info" : {
+            "title"    : "%{title}",
+        "author"   : "",
+        "subject"  : "",
+        "keywords" : "",
+      },
+
+      // Even/odd pages. A value of -1 denotes odd/even pages.
+      "even-odd-pages" : 0,
+      // Align songs to even/odd pages. When greater than 1, force alignment.
+      "pagealign-songs" : 0,
+
+    }
+      
+}
+

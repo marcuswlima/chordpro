@@ -1,0 +1,27 @@
+{new_song}
+{title: Aclamação - A Bíblia é a palavra de Deus}
+
+
+{start_of_chorus Refrão}
+A [E]Bíblia[E7] é a palav[A]ra de [Am]Deus
+sem[E]eada no [F#]meio do [B7]povo,
+que cresc[E]eu, cresc[E7]eu
+e nos [A]transform[Am]ou
+Ensi[E]nando-nos viv[B7]er um mundo [E]novo
+{end_of_chorus}
+
+{start_of_verse: I}
+[G#]Deus é bom, nos ens[C#m]ina a viver
+[B7]Nos revela o ca[E]minho a se[E7]guir
+[A]Só no a[Am]mor partilh[E]ando seus [C#7]dons
+Sua pres[F#7]ença iremos sent[B7]ir
+{end_of_verse}
+
+{start_of_verse: II}
+[G#]Somos povo, o p[C#m]ovo de Deus,
+[B7]E formamos o [E]reino de irm[E7]ãos
+[A]E a Pa[Am]lavra que é [E]viva nos [C#7]guia
+E alim[F#7]enta a nossa uni[B7]ão
+{end_of_verse}
+
+{image: src="logo.png" scale=0.5 center=100}
