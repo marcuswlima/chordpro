@@ -1,7 +1,7 @@
 
 
 
-chordpro -o ../../pdfs/$1.pdf $1.cho --config=myconfig.json
+chordpro -o ../../produtos/$1.pdf $1.cho --config=myconfig.json
 
 
 

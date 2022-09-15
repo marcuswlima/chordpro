@@ -159,7 +159,7 @@
     // Table of contents.
     "contents" : [
 	{ "fields"   : [ "songindex" ],
-	  "label"    : "Mês da Bíblia",
+	  "label"    : "Missa de Pentecostes",
 	  "line"     : "%{title}",
           "pageno"   : "%{page}",
 	  "fold"     : false,
